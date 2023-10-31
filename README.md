@@ -18,7 +18,7 @@ Flutter SDK Version 3.3.0 or greater.
 ## Medical record part
 ![Picture5](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/688b5162-8ae1-48aa-b678-752a845e29bf)
 
-### Prototype video
+###  Video Screen
 
 https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/4e33b8ea-c5f3-41ea-a1c4-7a4657c8ecba
 
