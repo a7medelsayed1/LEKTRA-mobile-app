@@ -10,7 +10,16 @@ Flutter SDK Version 3.3.0 or greater.
 
 https://www.figma.com/file/TZcncTFe7TjJow6G3fkdjI/UI-%2F-Graduation-Project?type=design&node-id=0%3A1&mode=design&t=Q7cKf4HbCXao0mOx-1
 ### Application design 
+## Home Page
 ![Picture1](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/fbb2e170-1ed3-48db-9dc3-b085b16738d7)
+## Booking
+![Picture2](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/f734485f-775e-4a56-b8f4-ede0b364b94b)
+## Profile
+![Picture3](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/f4627b43-47f4-498e-b866-412421af6198)
+## Social media part
+![Picture4](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/7f10637f-e5ef-4afd-8c34-aefe962d747e)
+## Medical record part
+![Picture5](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/688b5162-8ae1-48aa-b678-752a845e29bf)
 
 ### Libraries and tools used
 
