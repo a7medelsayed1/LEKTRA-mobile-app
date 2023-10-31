@@ -21,6 +21,10 @@ https://www.figma.com/file/TZcncTFe7TjJow6G3fkdjI/UI-%2F-Graduation-Project?type
 ## Medical record part
 ![Picture5](https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/688b5162-8ae1-48aa-b678-752a845e29bf)
 
+### Prototype video
+
+https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/37e6541d-773f-4dd8-8931-49cb0218d317
+
 ### Libraries and tools used
 
 - get - State management
