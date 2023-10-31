@@ -23,7 +23,7 @@ https://www.figma.com/file/TZcncTFe7TjJow6G3fkdjI/UI-%2F-Graduation-Project?type
 
 ### Prototype video
 
-https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/37e6541d-773f-4dd8-8931-49cb0218d317
+https://github.com/a7medelsayed1/LEKTRA-mobile-app/assets/127549203/4e33b8ea-c5f3-41ea-a1c4-7a4657c8ecba
 
 ### Libraries and tools used
 
